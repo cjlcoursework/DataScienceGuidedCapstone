@@ -1,54 +1,47 @@
-Big Mountain Resort  
+# Big Mountain Resort  
 
 ## Context
+- Operating costs are up at Big Mountain 
+- The operating cost of adding a new ski Lift have accentuated that issue
+- It's unspoken, but the presumption is that we are concerned with the overall effect on profit
+- We can either bring operating cost down, or increase revenue to improve profit
+- A working hypothesis is that in general we are not pricing our facilities the best way to increase revenue 
+- Looking at it this way, our investment strategy is also highly contingent on our ability to price our offerings
 
-- Operating costs up - New Lift costs having an impact
-- Approach to pricing has been to increase price (premium pricing == Above Avergae for similar segments?)
+- Our current pricing strategy has been to charge a premium above the average price resorts i our market segment
 
-- Is Big Mountain capitalizing on its facilities?
-
-- Basing their pricing on just the market average does not provide the business with a
+- Basing our pricing on just the market average does not provide the business with a
 good sense of how important some facilities are compared to others
 
-- Investment Strategy is ...hampered?   -- this says they don't know how much and where to invest - and maybe how they can capitalize on investment
-  - Yeah - but does this mean they want to know how much to invest
-  - Kinda goes to how much can I recapture of any investment
-  - 
-- What makes one facility more valuable - 'worth' more than another?
-- 
-- Stated question:  how to select better pricing?  What to base it on?  What makes a facility suppport higher pricing?
+## Criteria for Success
+- Provide guidance on how to select a 'better' pricing model - focused on ticket pricing.
+  - What parameters most likely affect our pricing strategy? 
+  - What makes one facility more valuable, or 'worth' more than another?
+  - Stated question:  how can we select 'better' pricing?  What should we base pricing on?  
+  - What attributes of a facility support different pricing models?
 
-- Also, looking at:
-  - cutting costs
-  - changes to alloe higher pricing
-
-
-  - Current Strategy
-  - Charge a premium above average market price
-
-
-# Analysis
-- Understand our 'levers' with respect to pricing
+## Analysis
+- We need to better understand our 'levers' with respect to pricing
   - what investments increase revenue, which do not
   - how should we price our offering
 - How can we determine pricing?
 - The focus on op cost as well as investment 
 - How can we invest properly without negatively impacting profit
-- 
-# Scope of solution space
-The solution space provides more details about the tasks you will complete to reach the
-solution.
-Write your response in your problem statement worksheet.
 
-# Constraints
-The constraints section helps you, the data scientist, communicate anticipated conflict
-in implementing recommendations or findings of the project. Take a moment to
-consider what potential issues could arise when presenting your recommendations to
-the key stakeholders.
-Write your response in your problem statement worksheet.
+## Scope of solution space
+- This study will focus understanding causation and correlations of pricing data from across the US for which we have pricing information.
 
-# Stakeholders
-Identifying the key stakeholders in your project motivates the trajectory of your work and
-gives you access to key insights and data to support your analysis. Mapping out all the
-people with vested interests in your project outcome will help you build the network
-needed to comple
+## Constraints
+- It's unclear now how complete that data is, or how much effort and time it will take to improve the data
+- It's unclear whether the data will provide actionable insights
+- There's little marketing information available - we may be able to infer some information from the pricing models of other resorts in our segment.
+
+## Stakeholders
+
+- Steering
+  - `Jimmy Blackburn` -Director of Operations 
+- Subject-matter expertise and review
+  - `Jimmy Blackburn` -Director of Operations 
+  - `Alesha Eisen` - Database Manager
+
+
